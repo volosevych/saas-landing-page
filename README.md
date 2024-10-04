@@ -33,8 +33,8 @@ Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS th
 Check out the live verstion here: [Link](https://volosevych.github.io/saas-landing-page/)
 
 ### Screenshots
-![Screenshot1](https://prnt.sc/vGbgXbSItzyk)
-![Screenshot2](https://prnt.sc/iJJkbUs94gZx)
+![Screenshot1](./public/screenshots/Screenshot-2.png)
+![Screenshot2](./public/screenshots/Screenshot-1.png)
 
 ---
 
