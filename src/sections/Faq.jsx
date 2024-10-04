@@ -5,8 +5,7 @@ import FaqItem from "../components/FaqItem.jsx";
 const Faq = () => {
   const halfLength = Math.floor(faq.length / 2);
 
-  return (
-    <section>
+  return <section>
       <Element name="faq" className="relative">
         <div className="container relative z-2 py-28">
           <div>
@@ -44,7 +43,6 @@ const Faq = () => {
         </div>
       </Element>
     </section>
-  );
 };
 
 export default Faq;

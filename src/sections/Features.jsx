@@ -4,8 +4,7 @@ import { features, details } from '../constants';
 import Button from '../components/Button';
 
 const Features = () => {
-  return (
-    <section>
+  return  <section>
       <Element name="features">
         <div className='container'>
           <div className="relative flex md:flex-wrap flex-nowrap border-2
@@ -71,7 +70,6 @@ const Features = () => {
         </div>
       </Element>
     </section>
-  );
 };
 
 export default Features;

@@ -410,24 +410,12 @@ export const socials = [
     id: '0',
     title: 'x',
     icon: `${import.meta.env.BASE_URL}images/socials/x.svg`,
-    url: '#',
+    url: 'https://x.com/kuromayuu',
   },
   {
     id: '1',
     title: 'Threads',
     icon: `${import.meta.env.BASE_URL}images/socials/threads.svg`,
-    url: '#',
-  },
-  {
-    id: '2',
-    title: 'Instagram',
-    icon: `${import.meta.env.BASE_URL}images/socials/instagram.svg`,
-    url: '#',
-  },
-  {
-    id: '3',
-    title: 'Discord',
-    icon: `${import.meta.env.BASE_URL}images/socials/discord.svg`,
-    url: '#',
+    url: 'mailto:volosevichh@gmail.com',
   },
 ];
